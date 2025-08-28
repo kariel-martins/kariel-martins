@@ -2,7 +2,9 @@
 
 **`Desenvolvedor BackEnd`**
 
-Me chamo Kariel Martins, tenho 22 anos e moro em Porto Franco Maranhão. Atualmente, estou desenvolvendo projetos que buscam melhorar, desenvolver ou aprender novas tecnologias e conhecimentos para minha carreira como desenvolvedor Backend. Sou apaixonado por tecnologia, onde busco trazer soluços digitas por meio de codigo com arquitetura e tecnologias mordernas e confiaveis.
+Meu nome é Kariel Martins, tenho 22 anos e moro em Porto Franco – Maranhão. Atualmente, estou desenvolvendo projetos com o objetivo de aprimorar minhas habilidades, aprender novas tecnologias e expandir meus conhecimentos para consolidar minha carreira como desenvolvedor Backend.
+
+Sou apaixonado por tecnologia e busco criar soluções digitais inovadoras, aplicando código com arquiteturas modernas e tecnologias confiáveis que agreguem valor e qualidade aos projetos.
 
 ---
 
