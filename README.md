@@ -42,20 +42,10 @@ Minha paixão é atuar como **Desenvolvedor Backend**, transformando ideias comp
 
 ### 📈 Minha Atividade no GitHub
 
-<div align="center">
-  <img 
-    align="center"
-    height="170" 
-    alt="GitHub Stats"
-    src="https://github-readme-stats.vercel.app/api?username=kariel-martins&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&rank_icon=github" 
-  />
-  <img 
-    align="center"
-    height="170" 
-    alt="Top Languages"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kariel-martins&layout=compact&theme=tokyonight&hide_border=true&custom_title=Linguagens%20Mais%20Usadas" 
-  />
-</div>
+<p align="center">
+  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kariel-martins&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kariel-martins&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 <br>
 
