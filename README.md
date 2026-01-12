@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/kariel-martins" alt="Foto de Perfil do Kariel Martins" width="180" style="border-radius: 50%; box-shadow: 0 0 20px rgba(125, 152, 255, 0.5);" />
+  <img src="https://github.com/kariel-martins.png" alt="Foto de Perfil do Kariel Martins" width="180" style="border-radius: 50%; box-shadow: 0 0 20px rgba(125, 152, 255, 0.5);" />
   <h1>👨‍💻 Kariel Martins</h1>
   <h3>Desenvolvedor Backend</h3>
 </div>
