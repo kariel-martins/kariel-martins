@@ -1,73 +1,99 @@
 <div align="center">
-  <img src="https://github.com/kariel-martins.png" alt="Foto de Perfil do Kariel Martins" width="180" style="border-radius: 50%; box-shadow: 0 0 20px rgba(125, 152, 255, 0.5);" />
-  <h1>👨‍💻 Kariel Martins</h1>
-  <h3>Desenvolvedor Backend</h3>
+  <img src="https://github.com/kariel-martins.png" width="160" style="border-radius: 50%; border: 3px solid #7d98ff; box-shadow: 0 0 30px rgba(125, 152, 255, 0.3);" />
+
+  <h1>Olá, eu sou Kariel Martins 👋</h1>
+
+  <p align="center">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  </p>
+
+  <h3>Software Engineer • Back-end Specialist</h3>
+  <p><i>Focado em sistemas distribuídos, mensageria e arquiteturas escaláveis</i></p>
 </div>
 
 ---
 
-### 🌟 Bem-vindo(a) ao meu Perfil!
+## 📖 Sobre mim
 
-Sou **Kariel Martins**, tenho 22 anos e moro em **Porto Franco - Maranhão**.
+Sou desenvolvedor back-end focado na construção de **sistemas robustos, escaláveis e de alta performance**. Tenho como objetivo transformar regras de negócio complexas em soluções técnicas bem estruturadas, seguindo princípios de **engenharia de software**, boas práticas e organização arquitetural.
 
-Minha paixão é atuar como **Desenvolvedor Backend**, transformando ideias complexas em **soluções elegantes** e **performáticas**. Foco em arquitetura de software, performance e, acima de tudo, em escrever **código limpo, eficiente e escalável**.
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Buscando%20Oportunidades-0e77ff?style=flat-square&logo=gitbook&logoColor=white&color=0e77ff" alt="Buscando Oportunidades"/>
-  <img src="https://img.shields.io/badge/Interesse-Microsserviços-5EADFF?style=flat-square&logo=docker&logoColor=white" alt="Microsserviços"/>
-  <img src="https://img.shields.io/badge/Foco-Node.js%20/%20TS-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js / TS"/>
-</p>
-
-📚 **Atualmente:** Aprofundando o conhecimento em **arquitetura de microsserviços** e **mensageria** com **RabbitMQ**.
+Atualmente concentro meus estudos e projetos práticos em **Clean Architecture**, **DDD**, comunicação assíncrona e padronização de ambientes, buscando criar aplicações preparadas para cenários reais de produção.
 
 ---
 
-### 🛠️ Minhas Habilidades Técnicas
+## 🧠 Áreas de Atuação
 
-<div align="center" style="margin-top: 25px;">
-  <a href="https://www.typescriptlang.org/" target="_blank"><img alt="TypeScript" title="TypeScript" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" /></a>
-  <a href="https://nodejs.org/" target="_blank"><img alt="Node.js" title="Node.js" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" /></a>
-  
-  <a href="https://www.postgresql.org/" target="_blank"><img alt="PostgreSQL" title="PostgreSQL" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" /></a>
-  <a href="https://redis.io/" target="_blank"><img alt="Redis" title="Redis" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" /></a>
-  <a href="https://www.rabbitmq.com/" target="_blank"><img alt="RabbitMQ" title="RabbitMQ" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" /></a>
-  
-  <a href="https://reactjs.org/" target="_blank"><img alt="React" title="React" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" /></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img alt="TailwindCSS" title="TailwindCSS" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img alt="HTML5" title="HTML5" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img alt="CSS3" title="CSS3" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /></a>
+- Desenvolvimento de **APIs RESTful**
+- Arquitetura back-end escalável
+- Comunicação assíncrona entre serviços
+- Padronização de ambientes com containers
+- Otimização de performance e uso de cache
+- Organização de projetos orientados a domínio
+
+---
+
+## 🛠️ Stack Tecnológica
+
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Linguagens & Runtime** | Node.js, TypeScript |
+| **Bancos de Dados** | PostgreSQL, Redis (Cache), MongoDB |
+| **Infraestrutura** | Docker, Docker Compose |
+| **Mensageria** | RabbitMQ, Kafka (em aprendizado) |
+| **Arquitetura** | REST APIs, Microservices, SOLID, Clean Architecture |
+| **Qualidade** | Clean Code, Versionamento Git |
+
+---
+
+## 🚀 O que aplico nos meus projetos
+
+Nos meus repositórios você encontrará a aplicação prática dos seguintes conceitos:
+
+- **Resiliência:** Processamento assíncrono e filas com RabbitMQ  
+- **Performance:** Estratégias de cache utilizando Redis  
+- **Escalabilidade:** Separação de responsabilidades e arquitetura modular  
+- **Padronização:** Ambientes totalmente containerizados  
+- **Qualidade de código:** Tipagem forte, organização de camadas e boas práticas  
+
+---
+
+## 📊 Atividade no GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kariel-martins&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kariel-martins&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kariel-martins&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
 
-### 📈 Minha Atividade no GitHub
+## 📬 Contato
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kariel-martins&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kariel-martins&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<br>
-
----
-
-### 🔗 Conecte-se Comigo!
+Aberto para networking, colaboração em projetos e novas oportunidades na área de desenvolvimento back-end.
 
 <div align="center">
   <a href="https://www.linkedin.com/in/kariel-martins/" target="_blank">
-    <img alt="LinkedIn" title="LinkedIn" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  &nbsp;&nbsp;
   <a href="mailto:kariel.martins.dev@gmail.com">
-    <img alt="E-mail" title="E-mail" width="50" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  &nbsp;&nbsp;
   <a href="https://github.com/kariel-martins" target="_blank">
-    <img alt="GitHub" title="GitHub" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
 
 ---
 
-> _“O código limpo sempre parece que foi escrito por alguém que se importava.”_ 
-> <sub>— Robert C. Martin</sub>
+<p align="center">
+  <i>"O código limpo sempre parece que foi escrito por alguém que se importava."</i><br>
+  — <b>Robert C. Martin</b>
+</p>
