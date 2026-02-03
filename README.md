@@ -1,99 +1,77 @@
 <div align="center">
-  <img src="https://github.com/kariel-martins.png" width="160" style="border-radius: 50%; border: 3px solid #7d98ff; box-shadow: 0 0 30px rgba(125, 152, 255, 0.3);" />
 
-  <h1>Olá, eu sou Kariel Martins 👋</h1>
+  <img src="https://github.com/kariel-martins.png" width="150" style="border-radius: 50%; border: 4px solid #7d98ff; box-shadow: 0 0 20px rgba(125, 152, 255, 0.5);" />
 
-  <p align="center">
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  </p>
+  ## Backend Developer | Node.js | TypeScript | Distributed Systems
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kariel-martins/)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kariel-martins)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karielemanoelsilvamartins@gmail.com)
 
-  <h3>Software Engineer • Back-end Specialist</h3>
-  <p><i>Focado em sistemas distribuídos, mensageria e arquiteturas escaláveis</i></p>
 </div>
 
 ---
 
-## 📖 Sobre mim
+## 🚀 Sobre Mim
 
-Sou desenvolvedor back-end focado na construção de **sistemas robustos, escaláveis e de alta performance**. Tenho como objetivo transformar regras de negócio complexas em soluções técnicas bem estruturadas, seguindo princípios de **engenharia de software**, boas práticas e organização arquitetural.
+Sou um **Desenvolvedor Backend** apaixonado por arquitetura de software e sistemas de alta disponibilidade. Atualmente foco no ecossistema **Node.js**, aplicando padrões que garantam código limpo e escalável.
 
-Atualmente concentro meus estudos e projetos práticos em **Clean Architecture**, **DDD**, comunicação assíncrona e padronização de ambientes, buscando criar aplicações preparadas para cenários reais de produção.
-
----
-
-## 🧠 Áreas de Atuação
-
-- Desenvolvimento de **APIs RESTful**
-- Arquitetura back-end escalável
-- Comunicação assíncrona entre serviços
-- Padronização de ambientes com containers
-- Otimização de performance e uso de cache
-- Organização de projetos orientados a domínio
+* 📍 Baseado em Porto Franco - MA.
+* 🎯 Foco atual: Microserviços e Sistemas Distribuídos.
+* ⚡ Curiosidade: Defensor ferrenho de **Clean Architecture** e **Testes Automatizados**.
 
 ---
 
-## 🛠️ Stack Tecnológica
+## 🔗 Links Rápidos
+
+<div align="left">
+  <a href="SEU_LINK_AQUI" target="_blank">
+    <img src="https://img.shields.io/badge/-Acessar%20Portfólio-7d98ff?style=for-the-badge&logo=react&logoColor=white" />
+  </a>
+  <a href="https://api.whatsapp.com/send?phone=5599900000000" target="_blank">
+    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+</div>
+
+---
+
+## 🛠️ Stack Técnica
 
 | Categoria | Tecnologias |
 | :--- | :--- |
-| **Linguagens & Runtime** | Node.js, TypeScript |
-| **Bancos de Dados** | PostgreSQL, Redis (Cache), MongoDB |
-| **Infraestrutura** | Docker, Docker Compose |
-| **Mensageria** | RabbitMQ, Kafka (em aprendizado) |
-| **Arquitetura** | REST APIs, Microservices, SOLID, Clean Architecture |
-| **Qualidade** | Clean Code, Versionamento Git |
+| **Linguagens & Runtime** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| **Frameworks & DB** | ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) |
+| **Mensageria** | ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white) ![BullMQ](https://img.shields.io/badge/BullMQ-orange?style=flat-square) |
+| **DevOps & QA** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white) |
 
 ---
 
-## 🚀 O que aplico nos meus projetos
-
-Nos meus repositórios você encontrará a aplicação prática dos seguintes conceitos:
-
-- **Resiliência:** Processamento assíncrono e filas com RabbitMQ  
-- **Performance:** Estratégias de cache utilizando Redis  
-- **Escalabilidade:** Separação de responsabilidades e arquitetura modular  
-- **Padronização:** Ambientes totalmente containerizados  
-- **Qualidade de código:** Tipagem forte, organização de camadas e boas práticas  
+## 🏗️ Padrões e Práticas
+`Clean Architecture` • `SOLID` • `DDD` • `RESTful APIs` • `Multi-Tenancy` • `RBAC` • `TDD`
 
 ---
 
-## 📊 Atividade no GitHub
+## 📌 Projeto em Destaque
+
+### 🗓️ Smart Agenda API — SaaS Backend
+> *Sistema SaaS de agendamentos multi-tenant focado em escalabilidade.*
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kariel-martins&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kariel-martins&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kariel-martins&theme=tokyonight&hide_border=true" />
-</div>
-
----
-
-## 📬 Contato
-
-Aberto para networking, colaboração em projetos e novas oportunidades na área de desenvolvimento back-end.
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/kariel-martins/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:kariel.martins.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/kariel-martins" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/kariel-martins/smart-agenda-api">
+    <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/pin/?username=kariel-martins&repo=smart-agenda-api&theme=tokyonight&show_owner=true" />
   </a>
 </div>
 
 ---
 
-<p align="center">
-  <i>"O código limpo sempre parece que foi escrito por alguém que se importava."</i><br>
-  — <b>Robert C. Martin</b>
-</p>
+## 📊 Estatísticas
+
+<div align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=kariel-martins&theme=tokyonight" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quote=First%20make%20it%20work.%20Then%20make%20it%20right.%20Then%20make%20it%20fast.&author=Kent%20Beck&theme=tokyonight" width="80%" />
+</div>
