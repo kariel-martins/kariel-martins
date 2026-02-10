@@ -25,10 +25,10 @@ Sou um **Desenvolvedor Backend** apaixonado por arquitetura de software e sistem
 ## 🔗 Links Rápidos
 
 <div align="left">
-  <a href="SEU_LINK_AQUI" target="_blank">
+  <a href="https://portfolio-kariel.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/-Acessar%20Portfólio-7d98ff?style=for-the-badge&logo=react&logoColor=white" />
   </a>
-  <a href="https://api.whatsapp.com/send?phone=5599900000000" target="_blank">
+  <a href="https://api.whatsapp.com/send?phone=+5599982773482" target="_blank">
     <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </div>
